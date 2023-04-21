@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-sorter-app",
+  "version": "1.0.0",
+  "description": "simple app that sort user input",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startApp": "node app.js"
+  },
+  "author": "Alex Rybakow",
+  "license": "ISC"
+}
